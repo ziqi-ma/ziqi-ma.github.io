@@ -68,7 +68,7 @@ content:
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           2021.6.8 - Check out this article I wrote with my co-authors on Data Science@Microsoft medium blog: [Data science perspectives on averages and related areas](https://medium.com/data-science-at-microsoft/data-science-perspectives-on-averages-and-related-areas-4df73468f820)<br>
-          2021.6.2 - The fair ML compression project I initiated got featured by PureAI: [Researchers Explore Techniques to Reduce the Size of Deep Neural Networks](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx) <br>
+          2021.6.2 - The fair ML compression project I initiated got featured by PureAI: [Researchers Explore Intelligent Sampling of Huge ML Datasets to Reduce Costs and Maintain Model Fairness](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx) <br>
           2020.10.15 - Presented work on circuit learning for quantum sensing at IEEE QCE20 Practical Quantum Sensing Workshop
 
   - title: Experience # Title for the section
