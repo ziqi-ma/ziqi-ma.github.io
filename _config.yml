@@ -1,0 +1,225 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ziqi Ma
+#title: Software Engineer
+email: ziqima@outlook.com
+website: ziqi-ma.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username:  ziqi-ma
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: ziqi-ma
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hello! I'm Ziqi, currently a software engineer at Microsoft, working on productionalizing machine learning models. I am interested in making machine learning more usable in real systems, which involves fairness, robustness, and efficiency. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I (graduated early to) work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/); and applied machine learning to [ioT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://pme.uchicago.edu/faculty/monisha-ghosh).
+
+content:
+  - title: News # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: https://arxiv.org/abs/2010.08702
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          2021.6.8 - Check out this article I wrote with my co-authors on Data Science@Microsoft medium blog: [Data science perspectives on averages and related areas](https://medium.com/data-science-at-microsoft/data-science-perspectives-on-averages-and-related-areas-4df73468f820)<br>
+          2021.6.2 - The fair ML compression project I initiated got featured by PureAI: [Researchers Explore Techniques to Reduce the Size of Deep Neural Networks](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx) <br>
+          2020.10.15 - Presented work on circuit learning for quantum sensing at IEEE QCE20 Practical Quantum Sensing Workshop
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Microsoft
+        #link: boringcompany.com
+        # link_text: boringcompany.com
+        caption: 2020.8-present (full-time) <br> 2019.6-2019.9 (intern) 
+        #quote: >
+          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            **Software Engineer** @ *Microsoft Cloud Data Sciences*<br>
+            Building platform to enable scalable, self-serve machine learning productionalization <br>
+            Automated MLOps model production-readiness analysis <br>
+            **Software Engineer Intern** @ *Azure Intelligence Platform*<br>
+            Reduced support ticket misrouting by building&integrating NLP classifier and implementing distributed log tracing
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Chicago
+        caption: 2016-2020
+        sub_title:
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          B.S. Computer Science& BA Statistics, **summa cum laude**<br>
+          **GPA: 3.99/4.00**<br>
+          **Honors**: Enrico Fermi Scholar, Liew Research Scholar, Phi Beta Kappa Society, Dean’s List (all years)
+
+  - title: Workshop Papers # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Adaptive Circuit Learning for Quantum Metrology
+        link: https://arxiv.org/abs/2010.08702
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: https://arxiv.org/abs/2010.08702
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          **Ziqi Ma**, Pranav Gokhale, Tian-Xing Zheng, Sisi Zhou, Xiaofei Yu, Liang Jiang, Peter Maurer, Frederic T. Chong<br>
+          *IEEE International Conference on Quantum Computin and Engineering (QCE), Practical Quantum Sensing Workshop*<br>
+          Virtual, Oct 2020
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Fair Coreset Construction for Machine Learning
+        #link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I initiated a collaboration with Microsoft Research on coreset compression to speed up ML training (MSR AI School invited project), but during implementation realized existing techniques do not consider fairness, which motivated this research as side project.<br>
+          In the press: [Researchers Explore Intelligent Sampling of Huge ML Datasets to Reduce Costs and Maintain Model Fairness](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx)
+      - layout: top-middle
+        title: Circuit Learning for Quantum Metrology
+        link: https://arxiv.org/abs/2010.08702
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I graduated early to lead this collaboration project between members of CS and Molecular Engineering Departments - formulated sensing protocol design as a learning problem by constructing parametrized encoder/decoder circuits; enabled on-device learning from limited, noisy measurements via robust gradient estimation
+      - layout: top-middle
+        title: Thoreau & Water2Cloud
+        link: https://thoreau.uchicago.edu
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          This is an ioT project for environment monitoring, including a soil sensor network deployed in UChicago campus and a water-body sensing system deployed in India. I used machine learning (tree-based models, neural networks, active learning) for water quality (BOD, COD) prediction, and set up the LoRa system (embedded, wireless, backend) for soil sensing. 
+      - layout: top-middle
+        title: Learning Trajectory for Everyday Computing
+        #link: https://thoreau.uchicago.edu
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Designed online visual block-based CS-learning games for k-12 education, and analyzed performance of students from Kenwood Academy
+
+      - layout: top-middle
+        title: Bridges to Work
+        #link: https://thoreau.uchicago.edu
+        link_text:
+        additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Built virtual mentor to give disabled students targeted job-seeking advice (rule-based recommendation, running on Django), as member of TechTeam at UChicago's Institute of Politics
+
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I also like to [sing](https://www.youtube.com/watch?v=pvwjDJWgybc&ab_channel=PeterYang), play the piano & pipa (the Chinese lute), and take very long walks.
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
