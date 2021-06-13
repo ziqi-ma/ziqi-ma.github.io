@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_pic.jpg
+about_profile_image: images/profile_rotated.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I'm Ziqi, currently a software engineer at Microsoft, working on productionalizing machine learning models. I am interested in making machine learning more usable in real systems, which involves fairness, robustness, and efficiency. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I (graduated early to) work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/); and applied machine learning to [ioT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://pme.uchicago.edu/faculty/monisha-ghosh).
 
