@@ -67,7 +67,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          2021.8.24 - I got to write about one of my favorite topics-"how/when research becomes useful in practice", based on interviews with ML practitioners and organization leaders at Microsoft! It's published on Data Science@Microsoft medium blog: [Navigating the (long and winding) road from innovation to production]<a href="https://medium.com/data-science-at-microsoft/navigating-the-long-and-winding-road-from-innovation-to-production-b9ab14ec065d"><br>
+          2021.8.24 - I got to write about one of my favorite topics-"how/when research becomes useful in practice", based on interviews with ML practitioners and organization leaders at Microsoft! It's published on Data Science@Microsoft medium blog: [Navigating the (long and winding) road from innovation to production](https://medium.com/data-science-at-microsoft/navigating-the-long-and-winding-road-from-innovation-to-production-b9ab14ec065d)<br>
           2021.6.8 - Check out this article I wrote with my co-authors on Data Science@Microsoft medium blog: [Data science perspectives on averages and related areas](https://medium.com/data-science-at-microsoft/data-science-perspectives-on-averages-and-related-areas-4df73468f820)<br>
           2021.6.2 - The fair ML compression project I initiated got featured by PureAI: [Researchers Explore Intelligent Sampling of Huge ML Datasets to Reduce Costs and Maintain Model Fairness](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx) <br>
           2020.10.15 - Presented work on circuit learning for quantum sensing at IEEE QCE20 Practical Quantum Sensing Workshop
@@ -84,8 +84,8 @@ content:
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             **Software Engineer** @ *Microsoft Cloud Data Sciences*<br>
-            Building platform to enable scalable, self-serve machine learning productionalization <br>
-            Automated MLOps model production-readiness analysis <br>
+            Building featurestore to enable self-serve feature sharing across production models<br>
+            Built ML model pre-deployment check tool to partially automate ML model go-to-production review<br>
             **Software Engineer Intern** @ *Azure Intelligence Platform*<br>
             Reduced support ticket misrouting by building&integrating NLP classifier and implementing distributed log tracing
 
@@ -122,7 +122,7 @@ content:
           **Ziqi Ma**, Pranav Gokhale, Tian-Xing Zheng, Sisi Zhou, Xiaofei Yu, Liang Jiang, Peter Maurer, Frederic T. Chong<br>
           *IEEE International Conference on Quantum Computin and Engineering (QCE), Practical Quantum Sensing Workshop*<br>
           Virtual, Oct 2020<br>
-          V2 to appear in proceedings of IEEE QCE 2021
+          v2 to appear in proceedings of IEEE QCE 2021
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
