@@ -85,6 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             **Software Engineer** @ *Microsoft Cloud Data Sciences*<br>
             Building featurestore to enable self-serve feature sharing across production models<br>
+            Initiated collaboration with MSR on loss-based coreset to reduce training time, incorporated into featurestore<br>
             Built ML model pre-deployment check tool to partially automate ML model go-to-production review<br>
             **Software Engineer Intern** @ *Azure Intelligence Platform*<br>
             Reduced support ticket misrouting by building&integrating NLP classifier and implementing distributed log tracing
