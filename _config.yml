@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_rotated.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Ziqi, currently a software engineer at Microsoft, working on productionalizing machine learning models. I am interested in making machine learning more usable in real systems, which involves fairness, robustness, and efficiency. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I (graduated early to) work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/); and applied machine learning to [ioT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://pme.uchicago.edu/faculty/monisha-ghosh).
+  Hello! I'm Ziqi, currently a software engineer at Microsoft, working on machine learning models in production. I am interested in innovations that address the practical challenges of machine learning, which involves fairness, robustness (in a changing environment), and efficiency. I am also interested in fundamental solutions to these issues, involving representation and interaction. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I (graduated early to) work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/); and applied machine learning to [ioT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://pme.uchicago.edu/faculty/monisha-ghosh).
 
 content:
   - title: News # Title for the section
@@ -67,6 +67,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          2021.8.24 - I got to write about one of my favorite topics-"how/when research becomes useful in practice", based on interviews with ML practitioners and organization leaders at Microsoft! It's published on Data Science@Microsoft medium blog: [Navigating the (long and winding) road from innovation to production]<a href="https://medium.com/data-science-at-microsoft/navigating-the-long-and-winding-road-from-innovation-to-production-b9ab14ec065d"><br>
           2021.6.8 - Check out this article I wrote with my co-authors on Data Science@Microsoft medium blog: [Data science perspectives on averages and related areas](https://medium.com/data-science-at-microsoft/data-science-perspectives-on-averages-and-related-areas-4df73468f820)<br>
           2021.6.2 - The fair ML compression project I initiated got featured by PureAI: [Researchers Explore Intelligent Sampling of Huge ML Datasets to Reduce Costs and Maintain Model Fairness](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx) <br>
           2020.10.15 - Presented work on circuit learning for quantum sensing at IEEE QCE20 Practical Quantum Sensing Workshop
@@ -101,7 +102,7 @@ content:
           **GPA: 3.99/4.00**<br>
           **Honors**: Enrico Fermi Scholar, Liew Research Scholar, Phi Beta Kappa Society, Dean’s List (all years)
 
-  - title: Workshop Papers # Title for the section
+  - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -120,7 +121,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Ziqi Ma**, Pranav Gokhale, Tian-Xing Zheng, Sisi Zhou, Xiaofei Yu, Liang Jiang, Peter Maurer, Frederic T. Chong<br>
           *IEEE International Conference on Quantum Computin and Engineering (QCE), Practical Quantum Sensing Workshop*<br>
-          Virtual, Oct 2020
+          Virtual, Oct 2020<br>
+          V2 to appear in proceedings of IEEE QCE 2021
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
