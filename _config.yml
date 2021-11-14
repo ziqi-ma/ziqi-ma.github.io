@@ -121,7 +121,7 @@ content:
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           **Ziqi Ma**, Pranav Gokhale, Tian-Xing Zheng, Sisi Zhou, Xiaofei Yu, Liang Jiang, Peter Maurer, Frederic T. Chong<br>
-          In Proceedings of *_IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
+          In Proceedings of *IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
           Virtual, Oct 2021<br>
 
   - title: Projects # Title for the section
