@@ -121,9 +121,8 @@ content:
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           **Ziqi Ma**, Pranav Gokhale, Tian-Xing Zheng, Sisi Zhou, Xiaofei Yu, Liang Jiang, Peter Maurer, Frederic T. Chong<br>
-          *IEEE International Conference on Quantum Computing and Engineering (QCE), Practical Quantum Sensing Workshop*<br>
-          Virtual, Oct 2020<br>
-          v2 to appear in proceedings of IEEE QCE 2021
+          In Proceedings of *_IEEE International Conference on Quantum Computing and Engineering (QCE)*<br>
+          Virtual, Oct 2021<br>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -142,7 +141,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I initiated a collaboration with Microsoft Research on coreset compression to speed up ML training (MSR AI School invited project), but during implementation realized existing techniques do not consider fairness, which motivated this research as side project.<br>
+          I initiated a collaboration with Microsoft Research on coreset compression to speed up ML training (MSR AI School invited project, 8% acceptance rate), but during implementation realized existing techniques do not consider fairness, which motivated this research as side project.<br>
           In the press: [Researchers Explore Intelligent Sampling of Huge ML Datasets to Reduce Costs and Maintain Model Fairness](https://pureai.com/articles/2021/05/03/intelligent-ai-sampling.aspx)
       - layout: top-middle
         title: Circuit Learning for Quantum Metrology
