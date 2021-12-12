@@ -48,7 +48,7 @@ google_analytics: "UA-206722684-1"
 # about_title: About Me
 about_profile_image: images/profile_rotated.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I'm Ziqi, currently a software engineer at Microsoft, working on machine learning models in production. I am passionate about innovations that enable machine learning to empower successful and reliable applications, which require robustness, fairness, and efficiency. I am particularly interested in fundamental solutions to these issues, involving representation and interaction. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I graduated early to work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/). I have also applied machine learning to [ioT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://engineering.nd.edu/faculty/monisha-ghosh/).
+  Hello! I'm Ziqi, currently a software engineer at Microsoft, working on machine learning models in production. I am passionate about innovations that enable machine learning to empower successful and reliable applications, which require robustness, fairness, and efficiency. I am particularly interested in fundamental solutions to these issues, involving representation and interaction. Previously, I studied computer science and statistics at [The University of Chicago](https://www.uchicago.edu/), where I graduated early to work on [formulating quantum sensing as a learning problem](https://arxiv.org/abs/2010.08702), advised by [Prof. Fred Chong](https://people.cs.uchicago.edu/~ftchong/). I have also applied machine learning to [IoT-based water quality prediction](https://thoreau.uchicago.edu), advised by [Prof. Supratik Guha](https://pme.uchicago.edu/faculty/supratik-guha) and [Prof. Monisha Ghosh](https://engineering.nd.edu/faculty/monisha-ghosh/).
 
 content:
   - title: News # Title for the section
@@ -172,7 +172,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          This is an ioT project for environment monitoring, including a soil sensor network deployed in UChicago campus and a water-body sensing system deployed in India. I used machine learning (tree-based models, neural networks, active learning) for water quality (BOD, COD) prediction, and set up the LoRa system (embedded, wireless, backend) for soil sensing. 
+          This is an IoT project for environment monitoring, including a soil sensor network deployed in UChicago campus and a water-body sensing system deployed in India. I used machine learning (tree-based models, neural networks, active learning) for water quality (BOD, COD) prediction, and set up the LoRa system (embedded, wireless, backend) for soil sensing. 
       - layout: top-middle
         title: Learning Trajectory for Everyday Computing
         #link: https://thoreau.uchicago.edu
