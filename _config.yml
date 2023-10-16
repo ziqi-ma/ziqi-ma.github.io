@@ -48,9 +48,7 @@ google_analytics: "UA-206722684-1"
 # about_title: About Me
 about_profile_image: images/profile_rotated.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am Ziqi, currently a software engineer at Microsoft. I am broadly interested in data and ML: <br> 1) how to build scalable, reliable, low-maintenance data and ML solutions; <br> 2) how to reason about the social responsibility aspect of data and ML, as related to sustainability, trust, and fairness.<br>
-  I like to reflect on challenges observed in practice and explore new solutions.
-
+  Hello! I am Ziqi, a first-year PhD student at [Caltech](https://www.cms.caltech.edu). I am interested in ML for science. Prior to grad school I spent three amazing years at Microsoft where I was exposed to today's state-of-the-art in ML. Now I am envisioning what's next for ML by investigating how it can assist us in solving hard scientific problems that usually require human expertise and creativity.
 
 content:
   - title: News # Title for the section
@@ -69,6 +67,10 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          2023.9.14 - Moved to Pasadena to start my PhD at Caltech!<br>
+          2023.9.5 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Many facets of un-truth: LLM hallucination 101](https://medium.com/data-science-at-microsoft/many-facets-of-un-truth-llm-hallucination-101-8273806fa145). This is a 101 on LLM hallucination that I wish I had when starting to work on it. Hope it could be helpful to you too!<br>
+          2023.4.25 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Reasoning about change: Lessons learned from building a near real-time system for Azure pricing](https://medium.com/data-science-at-microsoft/reasoning-about-change-lessons-learned-from-building-a-near-real-time-system-for-azure-pricing-34049816ffbd1). While working on pricing I got to read up on the history of streaming, which is quite amazing!<br>
+          2023.3.7 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Speeding up "Reverse ETL"](https://medium.com/data-science-at-microsoft/speeding-up-reverse-etl-3af04e069fd1).<br>
           2021.12.21 - Check out this new article I wrote on Data Science@Microsoft medium blog: [What do we talk about when we talk about ML robustness](https://medium.com/data-science-at-microsoft/what-do-we-talk-about-when-we-talk-about-ml-robustness-4e58a55f9b8f). Distribution shift is only part of the story!<br>
           2021.8.24 - I got to write about one of my favorite topics - "how/when research becomes useful in practice", based on interviews with ML practitioners and organization leaders at Microsoft! It's published on Data Science@Microsoft medium blog: [Navigating the (long and winding) road from innovation to production](https://medium.com/data-science-at-microsoft/navigating-the-long-and-winding-road-from-innovation-to-production-b9ab14ec065d)<br>
           2021.6.8 - Check out this article I wrote with my co-authors on Data Science@Microsoft medium blog: [Data science perspectives on averages and related areas](https://medium.com/data-science-at-microsoft/data-science-perspectives-on-averages-and-related-areas-4df73468f820)<br>
@@ -82,14 +84,15 @@ content:
         title: Microsoft
         #link: boringcompany.com
         # link_text: boringcompany.com
-        caption: 2020.8-present (full-time) <br> 2019.6-2019.9 (intern) 
+        caption: 2020.8-2023.9 (full-time) <br> 2019.6-2019.9 (intern) 
         #quote: >
           #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            **Software Engineer** @ *Microsoft Cloud Data Sciences*<br>
-            Large-scale data systems: performance optimization (Spark), config-based data pipeline generation, feature serving for ML<br>
-            MLOps: worked closely with data scientists to productionize ML models, automated pre-deployment check tool<br>
-            Research collaboration: initiated collaboration with MSR on loss-based coreset to reduce training time<br>
+            **Software Engineer II** @ *AI Platform*<br>
+            AI Platform Responsible AI team: GPT-family model hallucination detection and mitigation<br>
+            **Software Engineer II** @ *Microsoft Cloud Data Sciences*<br>
+            Microsoft Cloud Data Sciences team: full-stack large-scale ML in business domain, including pricing (streaming, patent filed), revenue forecasting, anomaly detection, customer identity<br>
+            Innovations: initiated collaboration with MSR on loss-based coreset subsampling, prototyped graph model for pricing<br>
             **Software Engineer Intern** @ *Azure Intelligence Platform*<br>
             Reduced support ticket misrouting by building&integrating NLP classifier and implementing distributed log tracing
 
@@ -175,7 +178,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          This is an IoT project for environment monitoring, including a soil sensor network deployed in UChicago campus and a water-body sensing system deployed in India. I used machine learning (tree-based models, neural networks, active learning) for water quality (BOD, COD) prediction, and set up the LoRa system (embedded, wireless, backend) for soil sensing. 
+          This is an ioT project for environment monitoring, including a soil sensor network deployed in UChicago campus and a water-body sensing system deployed in India. I used machine learning (tree-based models, neural networks, active learning) for water quality (BOD, COD) prediction, and set up the LoRa system (embedded, wireless, backend) for soil sensing. 
       - layout: top-middle
         title: Learning Trajectory for Everyday Computing
         #link: https://thoreau.uchicago.edu
