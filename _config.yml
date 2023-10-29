@@ -48,7 +48,7 @@ google_analytics: "UA-206722684-1"
 # about_title: About Me
 about_profile_image: images/profile_rotated.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am Ziqi, a first-year PhD student at [Caltech](https://www.cms.caltech.edu). I am interested in ML for science. Prior to grad school I spent three amazing years at Microsoft where I was exposed to today's state-of-the-art in ML. Now I am envisioning what's next for ML by investigating how it can assist us in solving hard scientific problems that usually require human expertise and creativity.
+  Hello! I am Ziqi, a first-year PhD student at [Caltech](https://www.cms.caltech.edu). I am interested in AI for science. Prior to grad school I spent three amazing years at Microsoft where I was exposed to today's state-of-the-art in ML. Before that I was an undergrad at UChicago double-majoring in CS and statistics. Now I am envisioning what's next for ML by investigating how it can assist us in solving hard scientific problems that usually require human expertise and creativity.
 
 content:
   - title: News # Title for the section
@@ -67,7 +67,7 @@ content:
         #quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          2023.9.14 - Moved to Pasadena to start my PhD at Caltech!<br>
+          2023.9.14 - Moved to Pasadena to start my PhD at Caltech as a Kortschak Scholar!<br>
           2023.9.5 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Many facets of un-truth: LLM hallucination 101](https://medium.com/data-science-at-microsoft/many-facets-of-un-truth-llm-hallucination-101-8273806fa145). This is a 101 on LLM hallucination that I wish I had when starting to work on it. Hope it could be helpful to you too!<br>
           2023.4.25 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Reasoning about change: Lessons learned from building a near real-time system for Azure pricing](https://medium.com/data-science-at-microsoft/reasoning-about-change-lessons-learned-from-building-a-near-real-time-system-for-azure-pricing-34049816ffbd1). While working on pricing I got to read up on the history of streaming, which is quite amazing!<br>
           2023.3.7 - Check out this new article I wrote on Data Science@Microsoft medium blog: [Speeding up "Reverse ETL"](https://medium.com/data-science-at-microsoft/speeding-up-reverse-etl-3af04e069fd1).<br>
