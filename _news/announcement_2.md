@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-22 07:59:00-0400
+date: 2025-06-23 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper "Calibrated Uncertainty Quantification for Operator Learning via Conformal Prediction" is accepted by TMLR.
+Started my internship at Meta FAIR Perception team!
