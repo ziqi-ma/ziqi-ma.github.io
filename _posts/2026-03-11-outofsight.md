@@ -105,7 +105,7 @@ incoherence before and after the observation control.
 <div class="row mt-3">
     <div class="col-sm-6 mt-3 mt-md-0">
         <div align="center">
-            <video class="img-fluid rounded z-depth-1" style="max-width:60%;" controls autoplay loop muted playsinline>
+            <video class="img-fluid rounded z-depth-1" style="max-width:100%;" controls autoplay loop muted playsinline>
                 <source src="/assets/video/stevo/deflating_air_mattress.mp4" type="video/mp4">
             </video>
         </div>
@@ -260,7 +260,7 @@ There has been increasing attention in memory-enhanced video generation, like [W
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <div align="center">
-            <video class="img-fluid rounded z-depth-1" style="max-width:80%;" controls autoplay loop muted>
+            <video class="img-fluid rounded z-depth-1" style="max-width:60%;" controls autoplay loop muted>
                 <source src="/assets/video/stevo/ball_roll_down.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
