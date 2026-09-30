@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-23 09:00:00-0400
+date: 2026-06-06 11:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Started my internship at Meta FAIR Perception team!
+[SAM 3D](https://ai.meta.com/research/sam3d/) got CVPR 2026 Best Paper Aware Honorable Mention!
